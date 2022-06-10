@@ -12,4 +12,4 @@ Department of Physiology, Keio University School of Medicine
 3. then you are a member of this organization
 
 # See Also
-- [Our Website](http://www.okano-lab.com/)
+- [Our Website](http://www.okano-lab.com/, "岡野研 Weblog")
