@@ -1,4 +1,4 @@
-# Ishikawa Team from Okano Lab
+# Ishikawa Group from Okano Lab
 ---
 # Organization
 Department of Physiology, Keio University School of Medicine
